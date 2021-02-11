@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1604973558 source:d:\onedrive\aulas\senac\tecnico\turma_0025\uc9-prog\algoritmos_c\jam\variavel-1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1604973542 source:d:\onedrive\aulas\senac\tecnico\turma_0025\uc9-prog\algoritmos_c\jam\variavel-1\hello_word.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
