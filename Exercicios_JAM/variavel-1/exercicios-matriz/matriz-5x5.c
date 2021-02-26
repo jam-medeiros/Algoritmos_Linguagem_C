@@ -4,7 +4,7 @@ void main()
 {
     int A[3][4], B[3][4], i, j;
 
-    printf("\nDigite os 12 valores da matriz:\n");
+    printf("\nInforme os 12 valores da matriz:\n");
     for (i = 0; i < 3; i++)
     {
         for (j = 0; j < 4; j++)
