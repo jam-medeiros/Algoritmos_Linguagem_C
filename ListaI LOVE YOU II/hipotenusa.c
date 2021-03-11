@@ -4,8 +4,7 @@
 
 float hipotenusa(float diagonalMaior, float diagonalMenor)
 {
-    return sqrt(diagonalMaior * diagonalMaior + diagonalMenor *
-                                                    diagonalMenor);
+    return sqrt(diagonalMaior * diagonalMaior + diagonalMenor * diagonalMenor);
 }
 
 void main()
